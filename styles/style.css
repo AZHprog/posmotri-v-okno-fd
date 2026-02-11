@@ -189,6 +189,7 @@ ol {
   align-items: center;
   width: fit-content;
   gap: 5px;
+  cursor: pointer;
 }
 
 .search-form__textfield {
@@ -294,8 +295,4 @@ ol {
 
 .content__list-item {
   padding: 0 3px;
-}
-
-.search-form__label {
-  cursor: pointer;
 }
